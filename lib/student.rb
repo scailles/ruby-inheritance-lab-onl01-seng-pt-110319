@@ -9,8 +9,8 @@ def learn(knowledge)
 end
 
 def knowledge(knowledge)
-  learn(knowledge)
-  @knowledge
+  
+  @knowledge(knowledge)
 end
 
 end
