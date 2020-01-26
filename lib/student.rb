@@ -8,8 +8,8 @@ def learn(knowledge)
  @knowledge << "Ruby framework Rails gem bundle update" 
 end
 
-def knowledge(student)
-  @knowledge(student)
+def knowledge
+  @knowledge
 end
 
 end
