@@ -9,7 +9,7 @@ def learn(knowledge)
 end
 
 def knowledge
-  @knowledge.join
+  @knowledge
 end
 
 end
