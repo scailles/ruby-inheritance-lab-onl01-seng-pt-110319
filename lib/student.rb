@@ -9,7 +9,7 @@ def learn(knowledge)
 end
 
 def knowledge(knowledge)
-  @knowledge
+  @knowledge.to_s
 end
 
 end
