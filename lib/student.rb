@@ -5,9 +5,11 @@ def initialize
 end
 
 def learn
-string << @knowledge
+"Ruby framework Rails gem bundle update" << @knowledge
 end
 
-
+def knowledge
+  @knowledge
+end
 
 end
