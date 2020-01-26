@@ -4,11 +4,11 @@ def initialize
   @knowledge=[]
 end
 
-def learn(knowledge)
+def learn
 "Ruby framework Rails gem bundle update" << @knowledge
 end
 
-def knowledge
+def knowledge(knowledge)
   @knowledge
 end
 
